@@ -38,7 +38,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen p-6">
-      <h1 className="text-2xl font-bold mb-4">Koło fortuny (SVG)</h1>
+      <h1 className="text-2xl font-bold mb-4">Koło fortuny</h1>
 
       <div className="flex gap-2 mb-4">
         <input type="number" placeholder="Numer zestawu" value={newSetId}
